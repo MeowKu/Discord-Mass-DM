@@ -1,0 +1,2 @@
+Run Launch.bat file to install required modules.
+Run run.bat file to start the programm.
